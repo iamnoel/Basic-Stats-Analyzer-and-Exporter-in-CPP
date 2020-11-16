@@ -1,0 +1,2 @@
+# Basic-Stats-Analyzer-and-Exporter-in-CPP
+Provides a terminal ui allowing a user to select from options to store data. The user can enter a series of integers, the limit is dynamic and will prompt the user to decide, and the values can either be stored in a vector or a pointer. A file path can be set for file output so that the values can be saved after entry. Upon entering the values; the min, max, range, mean, median, and mode for the series will be calculated and displayed, this will also be outputted in the file.
